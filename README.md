@@ -1,4 +1,4 @@
-"# Real-time-Emotion-Detection" 
+# Real-time-Emotion-Detection
 
 Install the required libraries with requirements.txt
 
