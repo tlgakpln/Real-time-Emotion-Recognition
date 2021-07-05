@@ -1,0 +1,8 @@
+tensorflow-gpu==2.3.0
+pandas
+numpy
+opencv
+scikit-learn
+keras
+#conda install --file requirements.txt
+#pip install -r requirements.txt
